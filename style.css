@@ -1,0 +1,62 @@
+/*------------------------------------------------------Main Section------------------------------------------*/
+section{
+height:1450px;
+background-color:Lavender;
+margin:25px;
+
+}
+/* ---------------------------------------------------------Heading section--------------------------------------------*/
+
+header{
+height:180px;
+font-size:25px;
+font-weight:bold;
+color:gray;
+}
+#logo{width:500px;}
+#hpara{
+font-weight:normal;
+color:black;}
+/* ---------------------------------------------------------Testimonial section--------------------------------------------*/
+article{
+margin:10px;
+height:220px;
+background-color:rgb(206,206,206);}
+
+article h2{
+color: rgb(102,102,255);
+background-color:rgb(206,206,206);}
+
+article p{
+font-size:20px;
+}
+/* ---------------------------------------------------------GlassWARE section--------------------------------------------*/
+.Nested{
+	margin:10px;
+background-color:white;;
+height:955px;
+font-weight:bold;
+	}
+	.Nested .bor{
+	border-style:inset;
+    border-width:3px;
+	width:180px;
+	border-radius: 5px;
+	font-size:15px;
+	}
+
+.Nested  h1{font-size:2em;
+color:rgb(102,102,255);
+}
+.Nested p{font-size:20px;font-weight:normal;}
+
+.Nested #shirts{height:200px;}
+
+.Nested .bor1{
+	border-style:inset;
+    border-width:3px;
+	width:180px;
+	border-radius: 5px;
+	font-size:15px;
+	}
+.foot{color:rgb(102,102,255);}
